@@ -1,0 +1,590 @@
+{
+
+    "Products":[
+
+        {
+            "id": 1,
+            "crop":"Tomato",
+            "overview": "These is overview of tomato",
+            "crop_protection_products":[
+
+                {
+                    "title": "Prevention is key to disease managemnt",
+                    "description": "Luna Tranquility delivers world-class disease protection to your tomato crop including early blight and septoria. ",
+                    "image":"image1",
+                    "productType":"Fungicide",
+                    "product_name":"Luna Tranquility",
+                    "overview":"With Luna Tranquility® fungicide, you can keep your potatoes and apples flawless from spring through to harvest. And that’s all possible thanks to the unique Group 7 (fluopyram) and proven Group 9 (pyrimethanil) modes of action that give you outstanding control of the most damaging diseases such as apple scab and powdery mildew. Expect nothing but perfection with Luna Tranquility.",
+                    "characterisitics" : [
+                        {
+                            "title":"Prevention is key to disease managemnt",
+                            "value":"With Luna Tranquility® fungicide, you can keep your potatoes and apples flawless from spring through to harvest. And that’s all possible thanks to the unique Group 7 (fluopyram) and proven Group 9 (pyrimethanil) modes of action that give you outstanding control of the most damaging diseases such as apple scab and powdery mildew. Expect nothing but perfection with Luna Tranquility."
+                        },
+                        {
+                            "title":"Product Type",
+                            "value":"Fungicide"
+                        },
+                        {
+                            "title":"Diseases Controlled",
+                            "value":"Early Blight, Septoria Leaf Spot, Powdery Mildew."
+                        },
+                        {
+                            "title":"Diseases Supressed",
+                            "value":"Botrytis leaf blight, Purpole blotch, White mould"
+                        },
+                        {
+                            "title":"Groups and Active Ingredients",
+                            "value":"Fluoppyram Group7, Pyrimethanil Group9"
+                        },
+                        {
+                            "title":"Formulation Type",
+                            "value":"Suspension"
+                        },
+                        {
+                            "title":"Packaging",
+                            "value":"Available in 2L and 4.86L jugs"
+                        }
+                    ]
+                },
+
+                {
+                    "title": "Eliminate both grassy and broadleaf weeds",
+                    "overview": "Prior to emergence, broadleaf weeds can delay the plant from establishing and also provide competition for growth. Most tomato growers are able to address broadleaf weeds such as redroot pigweed and lamb’s quarters with a pre-emergent herbicide, along with inter-row cultivation. Perennial weeds such as quackgrass and other annual grassy weeds can be managed in the early stages of growth with a post-emergent herbicide application. Tomato producers should be aware of pre-harvest intervals when choosing a crop protection product.",
+                    "image":"image1",
+                    "product_name":"no",
+                    "description":"",
+                    "productType":"",
+                    "characterisitics" : [
+                        {
+                            "title":"Eliminate both grassy and broadleaf weeds",
+                            "value":"Prior to emergence, broadleaf weeds can delay the plant from establishing and also provide competition for growth. Most tomato growers are able to address broadleaf weeds such as redroot pigweed and lamb’s quarters with a pre-emergent herbicide, along with inter-row cultivation. Perennial weeds such as quackgrass and other annual grassy weeds can be managed in the early stages of growth with a post-emergent herbicide application. Tomato producers should be aware of pre-harvest intervals when choosing a crop protection product."
+                        }
+                    ]
+                },
+                {
+                    "title": "Watch for insects throughout the season",
+                    "description": "Sivanto Prime works fast to target the pests that have the potential to do the most damage to your tomato crop including aphids, leafhoppers, whiteflies and the Colorado potato beetle. ",
+                    "image":"image1",
+                    "product_name":"Sivanto Prime",
+                    "productType":"Insecticide",
+                    "overview":"Sivanto® Prime insecticide precisely targets key damaging pests like aphids, leafhoppers, blueberry maggot, scale and psyllids while at the same time having a favourable safety profile for many beneficial insects. Plus it works quickly, which helps preserve the overall health of your crops, stops the spread of diseases and most importantly, protects your investment.",
+                    "characterisitics" : [
+                        {
+                            "title":"Watch for insects throughout the season",
+                            "value":"Sivanto® Prime insecticide precisely targets key damaging pests like aphids, leafhoppers, blueberry maggot, scale and psyllids while at the same time having a favourable safety profile for many beneficial insects. Plus it works quickly, which helps preserve the overall health of your crops, stops the spread of diseases and most importantly, protects your investment."
+                        },
+                        {
+                            "title":"Product Type",
+                            "value":"Insecticide"
+                        },
+                        {
+                            "title":"Pests Controlled",
+                            "value":"Aphids, Leafhoppers, Blueberry Maggot."
+                        },
+                        {
+                            "title":"Pests Supressed",
+                            "value":"Pear Psylla"
+                        },
+                        {
+                            "title":"Groups and Active Ingredients",
+                            "value":"Flupyradifurone - Group 4D"
+                        },
+                        {
+                            "title":"Formulation Type",
+                            "value":"Suspension"
+                        },
+                        {
+                            "title":"Packaging",
+                            "value":"2L Jug(10 ac)"
+                        }
+                    ]
+                }
+
+            ],
+            "variants":[
+                {
+                    "title":"ALBRIC"
+                },
+                {
+                    "title":"AMSTERDAM"
+                },
+                {
+                    "title":"AUREA"
+                },
+                {
+                    "title":"BEORANGE"
+                },
+                {
+                    "title":"BETTER BOY"
+                },
+                {
+                    "title":"BETTER BOY PLUS"
+                },
+                {
+                    "title":"BIG BEEF"
+                },
+                {
+                    "title":"BOUNTICE"
+                },
+                {
+                    "title":"BREONICE"
+                },
+                {
+                    "title":"CYPRESS"
+                },
+                {
+                    "title":"DEBUT"
+                },
+                {
+                    "title":"DIXIE RED"
+                },
+                {
+                    "title":"DRC 564"
+                },
+                {
+                    "title":"DUCOVERY"
+                },
+                {
+                    "title":"FAVORITA"
+                },
+                {
+                    "title":"FERREIRA"
+                },
+                {
+                    "title":"FLAVORINO"
+                },
+                {
+                    "title":"FLORINO"
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "crop":"Onions",
+            "overview": "These is overview of tomato",
+            "crop_protection_products":[
+
+                {
+                    "title": "Manage disease in-season and post-harvest",
+                    "description": "Luna Tranquility delivers world-class disease protection to your tomato crop including early blight and septoria. ",
+                    "image":"image1",
+                    "productType":"Fungicide",
+                    "product_name":"Luna Tranquility",
+                    "overview":"With Luna Tranquility® fungicide, you can keep your potatoes and apples flawless from spring through to harvest. And that’s all possible thanks to the unique Group 7 (fluopyram) and proven Group 9 (pyrimethanil) modes of action that give you outstanding control of the most damaging diseases such as apple scab and powdery mildew. Expect nothing but perfection with Luna Tranquility.",
+                    "characterisitics" : [
+                        {
+                            "title":"Manage disease in-season and post-harvest",
+                            "value":"With Luna Tranquility® fungicide, you can keep your potatoes and apples flawless from spring through to harvest. And that’s all possible thanks to the unique Group 7 (fluopyram) and proven Group 9 (pyrimethanil) modes of action that give you outstanding control of the most damaging diseases such as apple scab and powdery mildew. Expect nothing but perfection with Luna Tranquility."
+                        },
+                        {
+                            "title":"Product Type",
+                            "value":"Fungicide"
+                        },
+                        {
+                            "title":"Diseases Controlled",
+                            "value":"Early Blight, Septoria Leaf Spot, Powdery Mildew."
+                        },
+                        {
+                            "title":"Diseases Supressed",
+                            "value":"Botrytis leaf blight, Purpole blotch, White mould"
+                        },
+                        {
+                            "title":"Groups and Active Ingredients",
+                            "value":"Fluoppyram Group7, Pyrimethanil Group9"
+                        },
+                        {
+                            "title":"Formulation Type",
+                            "value":"Suspension"
+                        },
+                        {
+                            "title":"Packaging",
+                            "value":"Available in 2L and 4.86L jugs"
+                        }
+                    ]
+                },
+
+                {
+                    "title": "Manage grassy and broadleaf weeds throughout the season",
+                    "overview": "Troublesome volunteer canola has been popping up everywhere. In many instances these volunteers can be tolerant to the herbicide system you are using, provide a host for dangerous diseases and may not feature the same agronomic traits as your new canola crop. But moving forward this doesn’t need to be a problem.",
+                    "image":"image1",
+                    "product_name":"Pardner",
+                    "description":"Say howdy to Pardner and goodbye to 19 tough broadleaf weeds in your onion crop including common groundsel. ",
+                    "productType":"Herbicide",
+                    "characterisitics" : [
+                        {
+                            "title":"Manage grassy and broadleaf weeds throughout the season",
+                            "value":"Troublesome volunteer canola has been popping up everywhere. In many instances these volunteers can be tolerant to the herbicide system you are using, provide a host for dangerous diseases and may not feature the same agronomic traits as your new canola crop. But moving forward this doesn’t need to be a problem."
+                        },
+                        {
+                            "title":"Product Type",
+                            "value":"Herbicide"
+                        },
+                        {
+                            "title":"Weeds Controlled",
+                            "value":"Volunteer Canola, Kochia, Lamb's-quarters, Wild Buckwheat, Russian Thistle, Pale Smartweed."
+                        },
+                        {
+                            "title":"Groups and Active Ingredients",
+                            "value":"Bromoxynil Group6"
+                        },
+                        {
+                            "title":"Formulation Type",
+                            "value":"Liquid-Emulsifiable Concentrate"
+                        },
+                        {
+                            "title":"Packaging",
+                            "value":"8L Jug (20 ac), 128L Bulk shuttle (320 ac)."
+                        }
+                    ]
+                },
+                {
+                    "title": "Insect damage can reduce onion grade",
+                    "description": "Sivanto Prime works fast to target the pests that have the potential to do the most damage to your tomato crop including aphids, leafhoppers, whiteflies and the Colorado potato beetle. ",
+                    "image":"image1",
+                    "product_name":"Sivanto Prime",
+                    "productType":"Insecticide",
+                    "overview":"Sivanto® Prime insecticide precisely targets key damaging pests like aphids, leafhoppers, blueberry maggot, scale and psyllids while at the same time having a favourable safety profile for many beneficial insects. Plus it works quickly, which helps preserve the overall health of your crops, stops the spread of diseases and most importantly, protects your investment.",
+                    "characterisitics" : [
+                        {
+                            "title":"Insect damage can reduce onion grade",
+                            "value":"Sivanto® Prime insecticide precisely targets key damaging pests like aphids, leafhoppers, blueberry maggot, scale and psyllids while at the same time having a favourable safety profile for many beneficial insects. Plus it works quickly, which helps preserve the overall health of your crops, stops the spread of diseases and most importantly, protects your investment."
+                        },
+                        {
+                            "title":"Product Type",
+                            "value":"Insecticide"
+                        },
+                        {
+                            "title":"Pests Controlled",
+                            "value":"Aphids, Leafhoppers, Blueberry Maggot."
+                        },
+                        {
+                            "title":"Pests Supressed",
+                            "value":"Pear Psylla"
+                        },
+                        {
+                            "title":"Groups and Active Ingredients",
+                            "value":"Flupyradifurone - Group 4D"
+                        },
+                        {
+                            "title":"Formulation Type",
+                            "value":"Suspension"
+                        },
+                        {
+                            "title":"Packaging",
+                            "value":"2L Jug(10 ac)"
+                        }
+                    ]
+                }
+
+            ],
+            "variants":[
+                {
+                    "title":"AJUSCO"
+                },
+                {
+                    "title":"ALBA BLANCA"
+                },
+                {
+                    "title":"ALMANZORO"
+                },
+                {
+                    "title":"BARBARO"
+                },
+                {
+                    "title":"BELMAR"
+                },
+                {
+                    "title":"CABALLERO"
+                },
+                {
+                    "title":"CANDY"
+                },
+                {
+                    "title":"CENTURY"
+                },
+                {
+                    "title":"CERINI"
+                },
+                {
+                    "title":"CIRRUS"
+                },
+                {
+                    "title":"DUSTER"
+                },
+                {
+                    "title":"ELBRUS"
+                },
+                {
+                    "title":"FORTNESS"
+                },
+                {
+                    "title":"HAMLET"
+                }
+            ]
+        },
+
+        {
+            "id": 3,
+            "crop":"Carrots",
+            "overview": "These is overview of tomato",
+            "crop_protection_products":[
+
+                {
+                    "title": "Prevention is key to disease management",
+                    "description": "",
+                    "image":"image1",
+                    "productType":"no",
+                    "product_name":"no",
+                    "overview":"Sclerotinia is a growing concern for carrot producers as the disease overwinters in the soil for up to five years and is present in fields across Canada. Sclerotinia, which can attack in the field or in storage, results in carrots that are watery and soft. While a foliar fungicide can control the disease, rotating into cereals or forage crops can help remove the disease from the soil. Early blight, or leaf spot, is also problematic in carrots. This disease can be confused with leaf blight, a disease that is prone to attacking the older foliage. Early blight, on the other hand, affects young leaves. It causes significant yield losses and degrades the quality of the tops, making them unsuitable for mechanical harvesting.",
+                    "characterisitics" : [
+                        {
+                            "title":"Prevention is key to disease management",
+                            "value":"Sclerotinia is a growing concern for carrot producers as the disease overwinters in the soil for up to five years and is present in fields across Canada. Sclerotinia, which can attack in the field or in storage, results in carrots that are watery and soft. While a foliar fungicide can control the disease, rotating into cereals or forage crops can help remove the disease from the soil. Early blight, or leaf spot, is also problematic in carrots. This disease can be confused with leaf blight, a disease that is prone to attacking the older foliage. Early blight, on the other hand, affects young leaves. It causes significant yield losses and degrades the quality of the tops, making them unsuitable for mechanical harvesting."
+                        }
+                    ]
+                },
+
+                {
+                    "title": "Keep broadleaf weeds at bay",
+                    "overview": "Troublesome volunteer canola has been popping up everywhere. In many instances these volunteers can be tolerant to the herbicide system you are using, provide a host for dangerous diseases and may not feature the same agronomic traits as your new canola crop. But moving forward this doesn’t need to be a problem.",
+                    "image":"image1",
+                    "product_name":"Pardner",
+                    "description":"Say howdy to Pardner and goodbye to 19 tough broadleaf weeds in your onion crop including common groundsel. ",
+                    "productType":"Herbicide",
+                    "characterisitics" : [
+                        {
+                            "title":"Keep broadleaf weeds at bay",
+                            "value":"Troublesome volunteer canola has been popping up everywhere. In many instances these volunteers can be tolerant to the herbicide system you are using, provide a host for dangerous diseases and may not feature the same agronomic traits as your new canola crop. But moving forward this doesn’t need to be a problem."
+                        },
+                        {
+                            "title":"Product Type",
+                            "value":"Herbicide"
+                        },
+                        {
+                            "title":"Weeds Controlled",
+                            "value":"Volunteer Canola, Kochia, Lamb's-quarters, Wild Buckwheat, Russian Thistle, Pale Smartweed."
+                        },
+                        {
+                            "title":"Groups and Active Ingredients",
+                            "value":"Bromoxynil Group6"
+                        },
+                        {
+                            "title":"Formulation Type",
+                            "value":"Liquid-Emulsifiable Concentrate"
+                        },
+                        {
+                            "title":"Packaging",
+                            "value":"8L Jug (20 ac), 128L Bulk shuttle (320 ac)."
+                        }
+                    ]
+                },
+                {
+                    "title": "Numerous insects threaten a carrot crop",
+                    "description": "Sivanto Prime works fast to target the pests that have the potential to do the most damage to your tomato crop including aphids, leafhoppers, whiteflies and the Colorado potato beetle. ",
+                    "image":"image1",
+                    "product_name":"Sivanto Prime",
+                    "productType":"Insecticide",
+                    "overview":"Sivanto® Prime insecticide precisely targets key damaging pests like aphids, leafhoppers, blueberry maggot, scale and psyllids while at the same time having a favourable safety profile for many beneficial insects. Plus it works quickly, which helps preserve the overall health of your crops, stops the spread of diseases and most importantly, protects your investment.",
+                    "characterisitics" : [
+                        {
+                            "title":"Numerous insects threaten a carrot crop",
+                            "value":"Sivanto® Prime insecticide precisely targets key damaging pests like aphids, leafhoppers, blueberry maggot, scale and psyllids while at the same time having a favourable safety profile for many beneficial insects. Plus it works quickly, which helps preserve the overall health of your crops, stops the spread of diseases and most importantly, protects your investment."
+                        },
+                        {
+                            "title":"Product Type",
+                            "value":"Insecticide"
+                        },
+                        {
+                            "title":"Pests Controlled",
+                            "value":"Aphids, Leafhoppers, Blueberry Maggot."
+                        },
+                        {
+                            "title":"Pests Supressed",
+                            "value":"Pear Psylla"
+                        },
+                        {
+                            "title":"Groups and Active Ingredients",
+                            "value":"Flupyradifurone - Group 4D"
+                        },
+                        {
+                            "title":"Formulation Type",
+                            "value":"Suspension"
+                        },
+                        {
+                            "title":"Packaging",
+                            "value":"2L Jug(10 ac)"
+                        }
+                    ]
+                }
+
+            ],
+            "variants":[
+                {
+                    "title":"CELLEOBUNCH"
+                },
+                {
+                    "title":"CR1706"
+                },
+                {
+                    "title":"CR2289"
+                },
+                {
+                    "title":"ENTERPEISE"
+                },
+                {
+                    "title":"ENVY"
+                },
+                {
+                    "title":"MALBEC"
+                },
+                {
+                    "title":"ORANGEBLAZE"
+                },
+                {
+                    "title":"PROPEEL"
+                },
+                {
+                    "title":"PS 07101441"
+                },
+                {
+                    "title":"SV2214DL"
+                },
+                {
+                    "title":"SV2384DL"
+                },
+                {
+                    "title":"SV2765DC"
+                },
+                {
+                    "title":"SVDC4193"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "crop":"Lettuce",
+            "overview": "These is overview of tomato",
+            "crop_protection_products":[
+
+                {
+                    "title": "Manage disease inside and out",
+                    "description": "",
+                    "image":"image1",
+                    "productType":"no",
+                    "product_name":"no",
+                    "overview":"Botrytis stem rot is the most prevalent disease in lettuce, and can cause grey-green shrivelled leaves. For best control, a fungicide should be applied preventatively. Sclerotinia, or white mould, is primarily an issue for head lettuce. It’s a growing concern as the spores that cause the disease can overwinter in the soil for many years. Downey mildew is more severe in greenhouse lettuce, but it does attack field lettuce as well especially when humid conditions persist.",
+                    "characterisitics" : [
+                        {
+                            "title":"Manage disease inside and out",
+                            "value":"Botrytis stem rot is the most prevalent disease in lettuce, and can cause grey-green shrivelled leaves. For best control, a fungicide should be applied preventatively. Sclerotinia, or white mould, is primarily an issue for head lettuce. It’s a growing concern as the spores that cause the disease can overwinter in the soil for many years. Downey mildew is more severe in greenhouse lettuce, but it does attack field lettuce as well especially when humid conditions persist."
+                        }
+                    ]
+                },
+
+                {
+                    "title": "Start out weed-free",
+                    "overview": "Lettuce can be sensitive to herbicides, so much of the weed control work is done upfront. A pre-seed clean up is often done to make sure the soil is weed free. Plastic coverings are used to control weed growth. Tilling between the rows can also help stop the spread of weeds.",
+                    "image":"image1",
+                    "product_name":"no",
+                    "description":"",
+                    "productType":"no",
+                    "characterisitics" : [
+                        {
+                            "title":"Start out weed-free",
+                            "value":"Lettuce can be sensitive to herbicides, so much of the weed control work is done upfront. A pre-seed clean up is often done to make sure the soil is weed free. Plastic coverings are used to control weed growth. Tilling between the rows can also help stop the spread of weeds."
+                        }
+                    ]
+                },
+                {
+                    "title": "Insect control difficult on large-surface lettuce leaves",
+                    "description": "Sivanto Prime works fast to target the pests that have the potential to do the most damage to your tomato crop including aphids, leafhoppers, whiteflies and the Colorado potato beetle. ",
+                    "image":"image1",
+                    "product_name":"Sivanto Prime",
+                    "productType":"Insecticide",
+                    "overview":"Sivanto® Prime insecticide precisely targets key damaging pests like aphids, leafhoppers, blueberry maggot, scale and psyllids while at the same time having a favourable safety profile for many beneficial insects. Plus it works quickly, which helps preserve the overall health of your crops, stops the spread of diseases and most importantly, protects your investment.",
+                    "characterisitics" : [
+                        {
+                            "title":"Insect control difficult on large-surface lettuce leaves",
+                            "value":"Sivanto® Prime insecticide precisely targets key damaging pests like aphids, leafhoppers, blueberry maggot, scale and psyllids while at the same time having a favourable safety profile for many beneficial insects. Plus it works quickly, which helps preserve the overall health of your crops, stops the spread of diseases and most importantly, protects your investment."
+                        },
+                        {
+                            "title":"Product Type",
+                            "value":"Insecticide"
+                        },
+                        {
+                            "title":"Pests Controlled",
+                            "value":"Aphids, Leafhoppers, Blueberry Maggot."
+                        },
+                        {
+                            "title":"Pests Supressed",
+                            "value":"Pear Psylla"
+                        },
+                        {
+                            "title":"Groups and Active Ingredients",
+                            "value":"Flupyradifurone - Group 4D"
+                        },
+                        {
+                            "title":"Formulation Type",
+                            "value":"Suspension"
+                        },
+                        {
+                            "title":"Packaging",
+                            "value":"2L Jug(10 ac)"
+                        }
+                    ]
+                }
+
+            ],
+            "variants":[
+                {
+                    "title":"AMANDA"
+                },
+                {
+                    "title":"BIG HORN"
+                },
+                {
+                    "title":"BRAVE HEART"
+                },
+                {
+                    "title":"BUBBA"
+                },
+                {
+                    "title":"COYOTE"
+                },
+                {
+                    "title":"DEL ORO"
+                },
+                {
+                    "title":"GRIZZLY"
+                },
+                {
+                    "title":"JAVELINA"
+                },
+                {
+                    "title":"LT4083"
+                },
+                {
+                    "title":"POWERBALL"
+                },
+                {
+                    "title":"RHINO"
+                },
+                {
+                    "title":"SCULPIN"
+                },
+                {
+                    "title":"SLOT MACHINE"
+                },
+                {
+                    "title":"SURE SHOT"
+                }
+            ]
+        }
+
+        
+           
+
+    ]
+
+}
