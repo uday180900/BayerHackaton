@@ -13,10 +13,12 @@ import {Button, Text, View} from 'react-native';
 import HomeScreen from './src/HomeScreen';
 import ProfileScreen from './src/ProfileScreen';
 import DetailsScreen from './src/DetailsScreen';
+import {LogBox} from 'react-native';
 
 const Stack = createNativeStackNavigator();
 
 const App = () => {
+  LogBox.ignoreAllLogs();
   return (
     <NavigationContainer>
       <Stack.Navigator>
@@ -28,7 +30,9 @@ const App = () => {
               backgroundColor: 'green',
             },
             headerTitle: () => (
-              <Text style={{fontSize: 24, color: 'white'}}>CROPS</Text>
+              <Text style={{fontSize: 24, color: 'white'}}>
+                VEGETABLES | CA
+              </Text>
             ),
           })}
         />

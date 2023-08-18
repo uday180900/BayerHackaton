@@ -1,0 +1,211 @@
+{
+    "Products":[
+        {
+          "Crop Category": "Vegetables",
+          "cropName": "Onion",
+          "Purpose of use ": "Disease Management",
+          "Purpose of use Description": "Manage disease in-season and post harvest",
+          "Additional ": "Onions are susceptible to diseases both during the season and once they have been placed into storage for curing and drying. Botrytis attacks as leaf blight during the season and as neck rot while in storage. A pre-harvest fungicide, followed by harvest at maturity and prompt drying can keep botrytis away. Downey mildew can overwinter in the soil so it’s important to destroy cull piles and rotate away from susceptible crops. Purple blotch appears after downey mildew and botrytis and can cause high crop loss.",
+          "Product Name (Link to the product details page)": "Luna Tranquilty"
+        },
+        {
+          "Crop Category": "Vegetables",
+          "cropName": "Onion",
+          "Purpose of use ": "Weed Management",
+          "Purpose of use Description": "Manage grassy and broadleaf weeds throughout the season",
+          "Additional ": "Onions do not compete well against weeds. When weed pressure is high, the onions will emerge slowly and will lose out on early season growth. Shallow tillage is one way to prepare the soil for seeding. For fields with higher pressure of broadleaf and grassy weeds, a pre-emergent herbicide can help prepare the field for the season. A post-emergent herbicide can also be applied as necessary as the field should remain weed-free throughout the growing season.",
+          "Product Name (Link to the product details page)": "Pardner"
+        },
+        {
+          "Crop Category": "Vegetables",
+          "cropName": "Onion",
+          "Purpose of use ": "Insect Management",
+          "Purpose of use Description": "Insect damage can reduce onion grade",
+          "Additional ": "Onion maggots are the most serious insect to an onion crop, especially to onion sets. While they also attack the roots, they are most damaging when they attack the bulbs. As eggs can overwinter in the soil, a good rotation can help keep numbers down. Onion thrips are primarily an issue in dry, hot weather. Thrips can be treated with an insecticide when the economic threshold is met. Cutworms are night feeders and can be hard to spot during the day, however their damage is easy to see. They can be treated with an insecticide when the larvae are small.",
+          "Product Name (Link to the product details page)": "Sivanto prime"
+        },
+        {
+          "Crop Category": "Vegetables",
+          "cropName": "Tomatoes",
+          "Purpose of use ": "Disease Management",
+          "Purpose of use Description": "Prevention is key to disease management",
+          "Additional ": "The warm, moist conditions that help tomatoes grow also allow disease to thrive. Tomatoes share many of the same disease issues as potatoes, such as early and late blight. Other diseases, like anthracnose are easily spread through splashing water. Planting clean, certified seed with a good disease resistance package can help keep disease at bay. Frequent scouting, removal of infected material, elimination of host weeds and proper nitrogen application can all help reduce risk. Fungicides need to be applied preventatively to be effective in eliminating these diseases.",
+          "Product Name (Link to the product details page)": "Luna Tranquilty"
+        },
+        {
+          "Crop Category": "Vegetables",
+          "cropName": "Tomatoes",
+          "Purpose of use ": "Weed Management",
+          "Purpose of use Description": "Eliminate both grassy and broadleaf weeds",
+          "Additional ": "Prior to emergence, broadleaf weeds can delay the plant from establishing and also provide competition for growth. Most tomato growers are able to address broadleaf weeds such as redroot pigweed and lamb’s quarters with a pre-emergent herbicide, along with inter-row cultivation. Perennial weeds such as quackgrass and other annual grassy weeds can be managed in the early stages of growth with a post-emergent herbicide application. Tomato producers should be aware of pre-harvest intervals when choosing a crop protection product."
+        },
+        {
+          "Crop Category": "Vegetables",
+          "cropName": "Tomatoes",
+          "Purpose of use ": "Insect Management",
+          "Purpose of use Description": "Watch for insects throughout the season",
+          "Additional ": "Aphids can be present in tomato crops throughout the season, but they can rapidly multiply when the weather turns hot and dry. Growers should monitor their fields for aphids over several weeks to see if populations are increasing. Aphids can also be a vector for viral disease. Cutworms are a concern early in the season as they will feed on the plant stems, cutting them off at the soil and leaving the plant to wilt and die. An insecticide can be effective, but only when the cutworms are young and small.",
+          "Product Name (Link to the product details page)": "Sivanto prime"
+        },
+        {
+          "Crop Category": "Vegetables",
+          "cropName": "Lettuce",
+          "Purpose of use ": "Disease Management",
+          "Purpose of use Description": "Manage disease inside and out",
+          "Additional ": "Botrytis stem rot is the most prevalent disease in lettuce, and can cause grey-green shrivelled leaves. For best control, a fungicide should be applied preventatively. Sclerotinia, or white mould, is primarily an issue for head lettuce. It’s a growing concern as the spores that cause the disease can overwinter in the soil for many years. Downey mildew is more severe in greenhouse lettuce, but it does attack field lettuce as well especially when humid conditions persist."
+        },
+        {
+          "Crop Category": "Vegetables",
+          "cropName": "Lettuce",
+          "Purpose of use ": "Weed Management",
+          "Purpose of use Description": "Start out weed-free",
+          "Additional ": "Lettuce can be sensitive to herbicides, so much of the weed control work is done upfront. A pre-seed clean up is often done to make sure the soil is weed free. Plastic coverings are used to control weed growth. Tilling between the rows can also help stop the spread of weeds."
+        },
+        {
+          "Crop Category": "Vegetables",
+          "cropName": "Lettuce",
+          "Purpose of use ": "Insect Management",
+          "Purpose of use Description": "Insect control difficult on large-surface lettuce leaves",
+          "Additional ": "Controlling insects on lettuce can prove challenging because there is such a large plant area to protect. Insects are therefore a major threat for lettuce growers. Lettuce aphids can cause stunted, discoloured foliage on the plant. Researchers are looking at how biologic controls can work alongside chemical controls to eliminate aphid concerns. Leafhoppers are dangerous because they carry the aster yellow disease. When aster yellows are high, growers can see anywhere from a 15-50% reduction in yield.",
+          "Product Name (Link to the product details page)": "Sivanto prime"
+        },
+        {
+          "Crop Category": "Vegetables",
+          "cropName": "Carrots",
+          "Purpose of use ": "Disease Management",
+          "Purpose of use Description": "Prevention is key to disease management",
+          "Additional ": "Sclerotinia is a growing concern for carrot producers as the disease overwinters in the soil for up to five years and is present in fields across Canada. Sclerotinia, which can attack in the field or in storage, results in carrots that are watery and soft. While a foliar fungicide can control the disease, rotating into cereals or forage crops can help remove the disease from the soil. Early blight, or leaf spot, is also problematic in carrots. This disease can be confused with leaf blight, a disease that is prone to attacking the older foliage. Early blight, on the other hand, affects young leaves. It causes significant yield losses and degrades the quality of the tops, making them unsuitable for mechanical harvesting."
+        },
+        {
+          "Crop Category": "Vegetables",
+          "cropName": "Carrots",
+          "Purpose of use ": "Weed Management",
+          "Purpose of use Description": "Keep broadleaf weeds at bay",
+          "Additional ": "Weeds in carrots not only provide competition for yield and crop quality, they are also hosts for insects and disease, making in-season management more difficult. Shallow cultivation along with pre-season perennial weed control help get the crop off to a strong start. Annual broadleaf and grassy weeds can be controlled with a post-emergent herbicide application.",
+          "Product Name (Link to the product details page)": "Pardner"
+        },
+        {
+          "Crop Category": "Vegetables",
+          "cropName": "Carrots",
+          "Purpose of use ": "Insect Management",
+          "Purpose of use Description": "Numerous insects threaten a carrot crop",
+          "Additional ": "There are a number of different insects that cause varying damage throughout the growing season, but they can be controlled with insecticide treatments. Leafhoppers are hosts and spread the disease Astor yellows. The insects can remain infected and spread disease for 100 days after infection. Carrot weevils cause localized damage that can have a significant economic impact. Rust flies tunnel into the carrot making them unmarketable. Cutworms attack young seedlings for early season losses",
+          "Product Name (Link to the product details page)": "Sivanto prime"
+        },
+        {
+          "Crop Category": "Tree Fruits",
+          "cropName": "Apples",
+          "Purpose of use ": "Disease Management",
+          "Purpose of use Description": "Combination of practices keep diseases at bay",
+          "Additional ": "Apples are Canada’s number one fruit crop both in terms of production volume and economics. As such, growers make great efforts to thwart the infestation and spread of diseases like apple leaf scab and powdery mildew. Cultural practices such as scouting, pruning, culling and planting barrier crops provide the first line of defence. And with the growing resistance to fungicides, growers are often tank mixing two or more fungicides or using a fungicide that’s been co-formulated to provide two modes of action. Research and development is being done to provide growers with unique products within a group. These fungicides work slightly differently which allows them to be effective even though other products within the same group are showing reduced sensitivity or outright resistance. Fungicide rotation and detailed record keeping should also be part of a grower’s resistance management strategy.",
+          "Product Name (Link to the product details page)": "Luna Tranquilty"
+        },
+        {
+          "Crop Category": "Tree Fruits",
+          "cropName": "Apples",
+          "Purpose of use ": "Weed Management",
+          "Purpose of use Description": "Weed suppression critical at key times",
+          "Additional ": "Reducing the weed competition during the critical weed-free periods of crop development can have a significant effect in achieving optimum apple yields. Controlling weeds outside the critical weed-free period will also help with harvest efficiencies and reduce the weed seed bank. Season-long weed suppression and management can be best achieved with a strong residual action herbicide.",
+          "Product Name (Link to the product details page)": "Alion"
+        },
+        {
+          "Crop Category": "Tree Fruits",
+          "cropName": "Apples",
+          "Purpose of use ": "Insect Management",
+          "Purpose of use Description": "Control insects with the right treatment at the right time",
+          "Additional ": "Scouting and preventative action are an apple grower’s best defence against the onslaught of destructive insects and pests. Walking the orchard and determining the threshold level of insects such as the codling moth, oblique banded leafroller, aphids and other leafrollers is critical to making the decision of which pesticide to use and when to use it. A preventative treatment of an insecticide can help manage the growing invasion of the Japanese beetle.",
+          "Product Name (Link to the product details page)": "Movento"
+        },
+        {
+          "Crop Category": "Tree Fruits",
+          "cropName": "Cherries",
+          "Purpose of use ": "Disease Management",
+          "Purpose of use Description": "A two-pronged disease control plan",
+          "Additional ": "Annual Canadian plantings of sweet and sour cherries total about 2,700 hectares with a combined production of about 17,500 tonnes. And with a total value of approximately $35 million, disease prevention and management is high on the list for cherry growers. Fungicide application along with scouting, proper tree pruning and the complete disposal of infected branches are all important practices for controlling diseases such as brown rot, black knot and powdery mildew."
+        },
+        {
+          "Crop Category": "Tree Fruits",
+          "cropName": "Cherries",
+          "Purpose of use ": "Weed Management",
+          "Purpose of use Description": "Always important to suppress weeds",
+          "Additional ": "Controlling weeds like cocklebur and other orchard weeds with a strong residual herbicide will help with harvesting efficiencies and reducing the weed seed bank for subsequent seasons. And, since insect and disease often find a home in weeds beneath or near trees, proper weed control will often reduce pest pressure."
+        },
+        {
+          "Crop Category": "Tree Fruits",
+          "cropName": "Cherries",
+          "Purpose of use ": "Insect Management",
+          "Purpose of use Description": "Insect control starts with a keen eye",
+          "Additional ": "Wherever there are cherry trees, there are sure to be destructive insects waiting for their opportunity to feast. Scouting is always the best method to determine insect pressure, species and the most effective course of action. Selecting the right insecticide and applying at it the right time can control common yet harmful insects such as fruit flies, leafrollers and Black Cherry aphids.",
+          "Product Name (Link to the product details page)": "Movento"
+        },
+        {
+          "Crop Category": "Tree Fruits",
+          "cropName": "Peaches",
+          "Purpose of use ": "Disease Management",
+          "Purpose of use Description": "Prevention is the best disease management plan",
+          "Additional ": "Peaches originating in China, have been produced in Canada since the 1700s, primarily for fresh consumption. Since peaches are being grown in their northernmost limits in Canada, growers take great pains to help their orchards thrive. And that means disease prevention and management. Along with scouting, pruning, cultivation and brush removal, applying the right fungicide at the right time will help keep yield-robbing diseases under control all season"
+        },
+        {
+          "Crop Category": "Tree Fruits",
+          "cropName": "Peaches",
+          "Purpose of use ": "Weed Management",
+          "Purpose of use Description": "Clean orchards help improve yields",
+          "Additional ": "Alleviating the weed competition during critical crop development can have a significant affect in achieving optimum peach yields. Controlling weeds outside these critical periods can also help reduce the source of weed seeds and increase harvesting efficiencies. A herbicide with a strong residual effect can often last all season, reducing work load and decreasing the trees competition for nutrients and water.",
+          "Product Name (Link to the product details page)": "Alion"
+        },
+        {
+          "Crop Category": "Tree Fruits",
+          "cropName": "Peaches",
+          "Purpose of use ": "Insect Management",
+          "Purpose of use Description": "Spotting them early helps control insects",
+          "Additional ": "Everyone loves the sweet taste of a fresh peach. Unfortunately, damaging insects like mites, moths, peach tree borers and aphids also find the fruit and tree irresistible. Insect control in peach orchards usually requires treating trees with insecticides with applications accurately timed to be most effective. Knowledge of these insect pests and their life cycles helps in scouting as well as the early diagnosis of a developing pest problem.",
+          "Product Name (Link to the product details page)": "Movento"
+        },
+        { "Crop Category": "Potatoes", "cropName": "Potatoes" },
+        {
+          "Crop Category": "Fruits",
+          "cropName": "Strawberries",
+          "Purpose of use ": "Disease Management",
+          "Purpose of use Description": "Disease management crucial for perfect red berry",
+          "Additional ": "Nothing can damage the appearance of a strawberry quicker than disease. Botrytis is the main cause of strawberry root rot, which can result in serious fruit loss. However it can be controlled with a fungicide application. Red stele can cause serious plant loss and poor yield. As the disease can live in the soil for many years, growers should be sure to use certified disease-free planting stock to manage the disease."
+        },
+        {
+          "Crop Category": "Fruits",
+          "cropName": "Strawberries",
+          "Purpose of use ": "Weed Management",
+          "Purpose of use Description": "Weed management to manage disease and pests",
+          "Additional ": "Strawberries are a highly competitive crop, but weeds should still be managed. In season, hand weeding, hoeing in rows or a residual herbicide application can reduce plant life habitat for insects and disease. A post-harvest herbicide application will control established weeds over the remainder of the year.",
+          "Product Name (Link to the product details page)": "Betamix B"
+        },
+        {
+          "Crop Category": "Fruits",
+          "cropName": "Strawberries",
+          "Purpose of use ": "Insect Management",
+          "Purpose of use Description": "Plan ahead for insect control",
+          "Additional ": "Because of their short growing season, especially for June bearing varieties, growers need to consider pre-harvest intervals when determining when an insecticide, or any pesticide, should be applied to a strawberry crop. Common insect pests in strawberries are mites and aphids. Strawberry mites attack from the centre of the plant out, resulting in stunted growth, while spider mites can reduce yield by up to 15 percent. Growers should spray to control mites as soon as possible after growth starts. Aphids can result in misshapen blossoms and can also prevent fruit from forming. Aphids can also spread viruses in the strawberry plant.",
+          "Product Name (Link to the product details page)": "Sivanto prime"
+        },
+        {
+          "Crop Category": "Fruits",
+          "cropName": "Grapes",
+          "Purpose of use Description": "Weed management",
+          "Product Name (Link to the product details page)": "Alion"
+        },
+        {
+          "Crop Category": "Fruits",
+          "cropName": "Grapes",
+          "Purpose of use ": "Disease Management",
+          "Purpose of use Description": "Resistance management through fungicide rotation",
+          "Additional ": "The warm, damp weather where disease thrives is common in Canada’s grape growing regions, meaning disease is always a threat. Botrytis appears across Canada, and is harmful to vintners as it affects the color, taste and aroma of the wine. Powdery mildew attacks the leaves, and by developing rapidly can cause damage through to harvest. Because foliar fungicide control is an important tool for growers, resistance management is key. Recently, several new multiple mode of action products have been registered for use on grapes as a resistance management tool.",
+          "Product Name (Link to the product details page)": "Luna Tranquilty"
+        },
+        {
+          "Crop Category": "Fruits",
+          "cropName": "Grapes",
+          "Purpose of use ": "Insect Management",
+          "Purpose of use Description": "Scout from bud break to harvest to control insects",
+          "Additional ": "For insect control, scouting once, or even twice a week will help determine optimal timing for insecticide application. Some common insects on grapes include mealybugs, which can be found on all parts of the plant and have more than 300 species in North America. Phylloxera is very common but only high infestations are problematic. Mites such as the European red mite and McDaniel spider mite can replicate six to eight times in a season so insecticide application should be carefully timed to reduce the risk of resistance development.",
+          "Product Name (Link to the product details page)": "Movento"
+        }
+      ]
+}

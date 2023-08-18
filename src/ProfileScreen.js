@@ -8,6 +8,7 @@ import {StyleSheet} from 'react-native';
 
 const Tab = createMaterialTopTabNavigator();
 const ProfileScreen = ({navigation, route}) => {
+  console.log(route.params.item, "requiredDt")
   useEffect(() => {
     navigation.setOptions({
       headerStyle: {
@@ -29,7 +30,24 @@ const ProfileScreen = ({navigation, route}) => {
     });
   }, [navigation, route.params.item.crop]);
   return (
-    <Tab.Navigator>
+    <Tab.Navigator
+      tabBarOptions={{
+        activeTintColor: 'white',
+        inactiveTintColor: 'white',
+
+        indicatorStyle: {
+          height: '100%',
+          backgroundColor: '#549309',
+          borderBottomColor: 'white',
+          borderBottomWidth: 1,
+          alignSelf: 'center',
+        },
+        labelStyle: {
+          fontSize: 16,
+          textTransform: 'capitalize',
+        },
+        style: {backgroundColor: 'green'},
+      }}>
       <Tab.Screen name="Variants">
         {props => (
           <Variants item1={route.params.item} navigation={navigation} />
